@@ -1,4 +1,4 @@
- SQL-Data-Warehouse--project
+**** SQL-Data-Warehouse--project****
  
 This project showcases a comprehensive data warehousing and analytics solution, spanning the development of a data warehouse to the generation of actionable insights.
 
@@ -27,19 +27,20 @@ This project showcases a comprehensive data warehousing and analytics solution, 
 **Project Requirements**
 
 
-Data Warehouse 
+****Data Warehouse ****
 
-Objective
+**Objective**
 
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
-Specifications
-Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
+**Specifications**
 
-Data Quality: Cleanse and resolve data quality issues before analysis.
+**Data Sources:** Import data from two source systems (ERP and CRM) provided as CSV files.
 
-Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
+**Data Quality:** Cleanse and resolve data quality issues before analysis.
 
-Scope: Focus on the latest dataset only; historization of data is not required.
+**Integration:** Combine both sources into a single, user-friendly data model designed for analytical queries.
 
-Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+**Scope:** Focus on the latest dataset only; historization of data is not required.
+
+**Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics teams.
