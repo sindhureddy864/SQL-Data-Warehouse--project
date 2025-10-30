@@ -1,8 +1,7 @@
-**** SQL-Data-Warehouse--project****
+** SQL-Data-Warehouse--project**
  
 This project showcases a comprehensive data warehousing and analytics solution, spanning the development of a data warehouse to the generation of actionable insights.
-
-<img width="1544" height="912" alt="data_architecture" src="https://github.com/user-attachments/assets/e2a8008f-f9df-4938-9477-1d74bd5a57a9" />
+The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 
 
 **Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
@@ -27,7 +26,7 @@ This project showcases a comprehensive data warehousing and analytics solution, 
 **Project Requirements**
 
 
-****Data Warehouse ****
+**Data Warehouse**
 
 **Objective**
 
