@@ -9,6 +9,8 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 **Silver Layer:** This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 
 **Gold Layer:** Houses business-ready data modeled into a star schema required for reporting and analytics.
+![insurance_page-0001](https://github.com/user-attachments/assets/ae2fd551-3ecf-4293-b536-8c83752a9387)
+
 
 **Project Overview**
 
